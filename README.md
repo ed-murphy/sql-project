@@ -45,7 +45,7 @@ This query retrieves the top 10 highest-paying data analyst job postings that ar
 ### 2. Skills Required for Top-Paying Jobs
 This query identifies the specific skills listed in the top 10 highest-paying data analyst job postings. It joins job, company, and skill data to highlight which skills are most valued by employers offering the highest salaries.
 
-![Most Lucrative Skills](assets\query2.png)
+![Most Lucrative Skills](assets/query2.png)
 
 ### 3. Most In-Demand Skills for Data Analysts
 This query finds the most frequently requested skills across all data analyst job postings. It aggregates skill counts to show which technical and analytical abilities are most sought after in the job market. It also provides separate counts for remote jobs and jobs in the Philadelphia market.
